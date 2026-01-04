@@ -18,8 +18,7 @@ NB: To sort the array, use Arrays.sort().
 
 <h3>Solution</h3>
 
-<img alt="Exercise 1 Solution"
-     src="https://github.com/user-attachments/assets/f5ea486b-cd35-40ba-a867-b5768d64ecf2" />
+<img width="357" height="333" alt="Capture d’écran 2026-01-04 223014" src="https://github.com/user-attachments/assets/0f8d5d0c-f90b-45ab-9c9d-19424a79acc1" />
 
 <hr>
 
@@ -42,8 +41,8 @@ The program checks that the verb ends with "er" and assumes that it is a regular
 
 <h3>Solution</h3>
 
-<img alt="Exercise 2 Solution"
-     src="https://github.com/user-attachments/assets/5524933d-b20d-4b80-a406-5ebeff4f8413" />
+<img width="369" height="252" alt="image" src="https://github.com/user-attachments/assets/08cc77ff-a064-4bf5-b97e-e6752d6dedba" />
+
 
 <hr>
 
@@ -63,8 +62,8 @@ Operations:
 
 <h3>Solution</h3>
 
-<img alt="Exercise 3 Solution"
-     src="https://github.com/user-attachments/assets/5a217d04-1ef8-44f4-8482-83453adf1032" />
+<img width="407" height="255" alt="image" src="https://github.com/user-attachments/assets/67bc5e12-fa48-4c35-ac97-89a8c8b0a04e" />
+
 
 <hr>
 
@@ -90,5 +89,5 @@ The string "Jeanne" contains:
 
 <h3>Solution</h3>
 
-<img alt="Exercise 4 Solution"
-     src="https://github.com/user-attachments/assets/fc612f08-41ee-47ea-ace0-4f4ab90a0351" />
+<img width="217" height="61" alt="image" src="https://github.com/user-attachments/assets/4c5b579c-67ff-46f0-afaa-c3042e8bba52" />
+
